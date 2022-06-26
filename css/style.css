@@ -1,0 +1,32 @@
+body {
+    background-image: url("../img/sean-oulashin-KMn4VEeEPR8-unsplash.jpg");
+    font-family: Verdana;
+}
+
+.dws-menu{
+    background-color: white;
+    margin-top: 100px;
+    width: 100%;
+}
+
+ul.dws-ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+}
+
+li.dws-li{
+    list-style: none;
+    padding: 10px;
+}
+
+li.dws-li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+}
+
+li.dws-li a i{
+    margin-right: 10px;
+}
+
